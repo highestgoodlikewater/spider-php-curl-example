@@ -1,4 +1,4 @@
 spider_php
 ==========
 
-Creating spiders with PHP.
+Criação de spiders com PHP+Curl.
